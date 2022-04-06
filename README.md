@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rezendetm
+- 👀 I’m interested in Python, SQL and Web Development
+- 🌱 I’m currently learning Python and Web Development.
+- 💞️ I’m looking to collaborate on Python Projects
